@@ -1,4 +1,5 @@
-# InfoProsessingEnginner
+# Infomation Prosessing Enginner
+
 <정보처리기사 실기 목차>
 
 1. 요구사항 확인
